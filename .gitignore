@@ -2,3 +2,9 @@
 cassava/
 
 .ipynb_checkpoints/
+
+checkpoints/
+
+figures/
+
+TRASH/
