@@ -4,3 +4,7 @@ cassava_logs/
 .ipynb_checkpoints/
 
 checkpoints/
+
+figures/
+
+TRASH/
