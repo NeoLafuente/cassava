@@ -1,6 +1,6 @@
 
 cassava/
-
+cassava_logs/
 .ipynb_checkpoints/
 
 checkpoints/
